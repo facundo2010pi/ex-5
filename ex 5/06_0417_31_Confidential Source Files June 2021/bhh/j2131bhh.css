@@ -1,0 +1,18 @@
+
+
+table         { border: 1px solid white;
+                border-collapse: separate;
+	        border-spacing:20px;
+    		min-width: 400px;}
+
+td            { border: 1px solid white;}
+
+h2	      { text-align: center;
+		color: white; }
+
+h3	      { text-align: center;
+		color: white; }
+
+p	      { color: white; }
+
+
